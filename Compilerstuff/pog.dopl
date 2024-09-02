@@ -1,0 +1,10 @@
+start
+integer num, sum;
+sum <- 0;
+num <- 1;
+loopif num .lt. 10 do
+sum <- sum .plus. num;
+num <- num .plus. 1;
+endloop;
+print sum;
+finish

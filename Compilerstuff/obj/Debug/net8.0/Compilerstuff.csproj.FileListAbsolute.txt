@@ -1,0 +1,14 @@
+C:\Users\abdul\Downloads\aau2(3)\DOPL lexical analyser\Compilerstuff\bin\Debug\net8.0\Compilerstuff.exe
+C:\Users\abdul\Downloads\aau2(3)\DOPL lexical analyser\Compilerstuff\bin\Debug\net8.0\Compilerstuff.deps.json
+C:\Users\abdul\Downloads\aau2(3)\DOPL lexical analyser\Compilerstuff\bin\Debug\net8.0\Compilerstuff.runtimeconfig.json
+C:\Users\abdul\Downloads\aau2(3)\DOPL lexical analyser\Compilerstuff\bin\Debug\net8.0\Compilerstuff.dll
+C:\Users\abdul\Downloads\aau2(3)\DOPL lexical analyser\Compilerstuff\bin\Debug\net8.0\Compilerstuff.pdb
+C:\Users\abdul\Downloads\aau2(3)\DOPL lexical analyser\Compilerstuff\obj\Debug\net8.0\Compilerstuff.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\abdul\Downloads\aau2(3)\DOPL lexical analyser\Compilerstuff\obj\Debug\net8.0\Compilerstuff.AssemblyInfoInputs.cache
+C:\Users\abdul\Downloads\aau2(3)\DOPL lexical analyser\Compilerstuff\obj\Debug\net8.0\Compilerstuff.AssemblyInfo.cs
+C:\Users\abdul\Downloads\aau2(3)\DOPL lexical analyser\Compilerstuff\obj\Debug\net8.0\Compilerstuff.csproj.CoreCompileInputs.cache
+C:\Users\abdul\Downloads\aau2(3)\DOPL lexical analyser\Compilerstuff\obj\Debug\net8.0\Compilerstuff.dll
+C:\Users\abdul\Downloads\aau2(3)\DOPL lexical analyser\Compilerstuff\obj\Debug\net8.0\refint\Compilerstuff.dll
+C:\Users\abdul\Downloads\aau2(3)\DOPL lexical analyser\Compilerstuff\obj\Debug\net8.0\Compilerstuff.pdb
+C:\Users\abdul\Downloads\aau2(3)\DOPL lexical analyser\Compilerstuff\obj\Debug\net8.0\Compilerstuff.genruntimeconfig.cache
+C:\Users\abdul\Downloads\aau2(3)\DOPL lexical analyser\Compilerstuff\obj\Debug\net8.0\ref\Compilerstuff.dll

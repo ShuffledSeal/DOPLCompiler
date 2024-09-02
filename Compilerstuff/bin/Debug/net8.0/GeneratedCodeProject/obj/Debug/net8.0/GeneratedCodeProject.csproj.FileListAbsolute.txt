@@ -1,0 +1,14 @@
+C:\Users\abdul\Downloads\aau2(3)\DOPL lexical analyser\Compilerstuff\bin\Debug\net8.0\GeneratedCodeProject\bin\Debug\net8.0\GeneratedCodeProject.exe
+C:\Users\abdul\Downloads\aau2(3)\DOPL lexical analyser\Compilerstuff\bin\Debug\net8.0\GeneratedCodeProject\bin\Debug\net8.0\GeneratedCodeProject.deps.json
+C:\Users\abdul\Downloads\aau2(3)\DOPL lexical analyser\Compilerstuff\bin\Debug\net8.0\GeneratedCodeProject\bin\Debug\net8.0\GeneratedCodeProject.runtimeconfig.json
+C:\Users\abdul\Downloads\aau2(3)\DOPL lexical analyser\Compilerstuff\bin\Debug\net8.0\GeneratedCodeProject\bin\Debug\net8.0\GeneratedCodeProject.dll
+C:\Users\abdul\Downloads\aau2(3)\DOPL lexical analyser\Compilerstuff\bin\Debug\net8.0\GeneratedCodeProject\bin\Debug\net8.0\GeneratedCodeProject.pdb
+C:\Users\abdul\Downloads\aau2(3)\DOPL lexical analyser\Compilerstuff\bin\Debug\net8.0\GeneratedCodeProject\obj\Debug\net8.0\GeneratedCodeProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\abdul\Downloads\aau2(3)\DOPL lexical analyser\Compilerstuff\bin\Debug\net8.0\GeneratedCodeProject\obj\Debug\net8.0\GeneratedCodeProject.AssemblyInfoInputs.cache
+C:\Users\abdul\Downloads\aau2(3)\DOPL lexical analyser\Compilerstuff\bin\Debug\net8.0\GeneratedCodeProject\obj\Debug\net8.0\GeneratedCodeProject.AssemblyInfo.cs
+C:\Users\abdul\Downloads\aau2(3)\DOPL lexical analyser\Compilerstuff\bin\Debug\net8.0\GeneratedCodeProject\obj\Debug\net8.0\GeneratedCodeProject.csproj.CoreCompileInputs.cache
+C:\Users\abdul\Downloads\aau2(3)\DOPL lexical analyser\Compilerstuff\bin\Debug\net8.0\GeneratedCodeProject\obj\Debug\net8.0\GeneratedCodeProject.dll
+C:\Users\abdul\Downloads\aau2(3)\DOPL lexical analyser\Compilerstuff\bin\Debug\net8.0\GeneratedCodeProject\obj\Debug\net8.0\refint\GeneratedCodeProject.dll
+C:\Users\abdul\Downloads\aau2(3)\DOPL lexical analyser\Compilerstuff\bin\Debug\net8.0\GeneratedCodeProject\obj\Debug\net8.0\GeneratedCodeProject.pdb
+C:\Users\abdul\Downloads\aau2(3)\DOPL lexical analyser\Compilerstuff\bin\Debug\net8.0\GeneratedCodeProject\obj\Debug\net8.0\GeneratedCodeProject.genruntimeconfig.cache
+C:\Users\abdul\Downloads\aau2(3)\DOPL lexical analyser\Compilerstuff\bin\Debug\net8.0\GeneratedCodeProject\obj\Debug\net8.0\ref\GeneratedCodeProject.dll
