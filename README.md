@@ -1,3 +1,8 @@
+# Assembler
+
+Basic Assembler that converts limited instruction set assembly language into machine code
+
+
 # DOPL Compiler
 
 ## Overview
@@ -36,6 +41,9 @@ start
     if sum .gt. 10 then
         print sum;
     else
+
+
+
         print num;
     endif;
     print "Done!";
